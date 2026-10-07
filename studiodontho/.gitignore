@@ -1,8 +1,0 @@
-node_modules/
-backend/node_modules/
-data/
-backend/data/
-*.log
-backend/*.log
-.env
-backend/.env
